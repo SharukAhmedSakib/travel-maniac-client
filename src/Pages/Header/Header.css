@@ -1,0 +1,9 @@
+.dark {
+  background-color: darkslategray;
+  color: white;
+}
+
+.white-text {
+  color: white;
+  font-size: larger;
+}
